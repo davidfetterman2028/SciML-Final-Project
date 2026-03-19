@@ -37,10 +37,10 @@ DampedOscillatorPINNPrediction.png – PINN vs FDM comparison for the damped osc
 
 ## Methodology
 
-# Finite Difference Method (FDM)
+### Finite Difference Method (FDM)
 Used to compute the true solution for both ideal and damped oscillators. Sparse noisy data points are sampled from this solution (after the addition of random noise) for PINN training.
 
-# Physics-Informed Neural Network
+### Physics-Informed Neural Network
 
 Fully connected network with:
 
@@ -66,7 +66,7 @@ Loss function accounts for and includes:
 
 4) Boundary conditions (not used here)
 
-# Training
+### Training
 Optimizer: Adam, learning rate 
 10^-3
 Number of iterations: 1500
@@ -78,7 +78,7 @@ wIC=5.0
 wData=10.0
 wBC=1.0
 
-# Evaluation
+### Evaluation
 
 Compare PINN predictions with FDM solutions for both ideal and damped oscillators
 
