@@ -107,6 +107,7 @@ Ideal Oscillator: PINN prediction matches FDM solution closely.
 
 
 Damped Oscillator: PINN captures damping behavior and oscillatory dynamics effectively.
+
 <img width="334" height="149" alt="image" src="https://github.com/user-attachments/assets/6dfb1711-3487-4206-8b7b-1cd8fcf6341b" />
 
 
