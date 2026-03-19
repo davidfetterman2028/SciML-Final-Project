@@ -113,6 +113,8 @@ Damped Oscillator: PINN captures damping behavior and oscillatory dynamics effec
 
 First draft of ReadMe was with help of GPT-5 to help transport originally written LaTeX into file.
 
+Presentation Slides and Link:
+https://drive.google.com/drive/folders/1O49b6qsM_6m00AW9UwZjL-b7FYgLJ4iW?usp=sharing
 Author
 David Fetterman – jst3867
 March 18, 2026
