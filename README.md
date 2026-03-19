@@ -102,7 +102,9 @@ Minor discrepancies between PINN and FDM are due to data noise and stochastic tr
 Figures
 
 Ideal Oscillator: PINN prediction matches FDM solution closely.
+
 <img width="332" height="144" alt="image" src="https://github.com/user-attachments/assets/9be482fa-6048-4df7-8c39-7d1f9d2c6867" />
+
 
 Damped Oscillator: PINN captures damping behavior and oscillatory dynamics effectively.
 <img width="334" height="149" alt="image" src="https://github.com/user-attachments/assets/6dfb1711-3487-4206-8b7b-1cd8fcf6341b" />
